@@ -5,4 +5,4 @@ def meal_choice( meal = "meat")
   puts "#{meal}"
 end
 
-puts greeting()
+puts meal_choice()
